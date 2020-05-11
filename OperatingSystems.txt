@@ -2,3 +2,4 @@ One of the main operating functions would be memory managment which is responsib
 keeps track of where the memory is stored, when it's stored, and of course how much it recieves. When you start saving applications, they
 are loaded and categorized in block sizes, which go with it's operating system. The way these blocks and bounderies are set, it helps
 prevent different applications from opening up ontop of one another.
+Another important operating function of a computer would be data security. It's purpose is to secure main core components of a computer such as the CPU, memory, disk, and data/information that's stored on that device (to name a few). If these essential parts arent protected, then serious damage may occur due to an unauthorized user. The US Department of Defense stepped in and implemented different classifications for security solutions for such events. 
