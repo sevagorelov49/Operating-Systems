@@ -1,0 +1,4 @@
+One of the main operating functions would be memory managment which is responsible for the saving of primary memory of the computer. It 
+keeps track of where the memory is stored, when it's stored, and of course how much it recieves. When you start saving applications, they
+are loaded and categorized in block sizes, which go with it's operating system. The way these blocks and bounderies are set, it helps
+prevent different applications from opening up ontop of one another.
